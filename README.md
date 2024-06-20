@@ -21,7 +21,7 @@
     <hr/>
 <div>
     <div>
-        <h2><img align="center"
+        <h2><img
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             About Me</h2>
     </div>
@@ -35,11 +35,6 @@ I’m excited to bring my skills and creative thinking to a team that values inn
 </div>
 </div>
 <div>
-    <div>
-        <h2><img align="center"
-                src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
-            What I'm up to</h2>
-    </div>
     <div>
         <h2>🧰 Languages and Tools</h2>
         <p align="center">
