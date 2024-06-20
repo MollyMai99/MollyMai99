@@ -7,6 +7,13 @@
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Fullstack developer</b> 🚀 </b>.<br />
        </p>
+    <ul>
+        <li>
+            📫 How to reach me: <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
+                <a href="mailto:aromalanilkannan@gmail.com" target="_blank">miaoling.mai99@gmail.com</a>
+        </li>
+    </ul>
      <div>
         <a href="https://www.linkedin.com/in/miaoling-mai/" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
