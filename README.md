@@ -18,13 +18,13 @@
         <a href="https://www.linkedin.com/in/miaoling-mai/" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     </div>
-    <hr/>
+   
 <div>
-    <div>
-        <h2><img
-                src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
+     <hr/>
+<div>
+        <h2><img src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             About Me</h2>
-    </div>
+</div>
     <p>I’m a passionate software engineer who loves working on full-stack development with JavaScript, React, Node, PostgreSQL, and MongoDB. I always aim to write efficient, high-quality code and use the best tools to get the job done.
 <br />
 My experience at Fortune 500 companies has given me strong business sense, great communication skills, clear logic, and a knack for getting things done. I’m good at quickly spotting and solving problems, and I always try to think outside the box.
