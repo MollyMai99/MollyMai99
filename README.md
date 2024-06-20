@@ -19,6 +19,7 @@
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
      <hr/>
+
 <div>
         <h2><img src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             About Me</h2>
@@ -30,6 +31,7 @@ Outside of work, I enjoy exploring new foods, practicing yoga, and trying out ne
 <br />
 I’m excited to bring my skills and creative thinking to a team that values innovation and collaboration. Let’s connect and see how we can work together!</p>
 </div>
+
 <div>
         <h2>🧰 Languages and Tools</h2>
         <p align="center">
@@ -52,10 +54,9 @@ I’m excited to bring my skills and creative thinking to a team that values inn
                 width="48" />&nbsp;&nbsp;&nbsp
         </p>
  </div>
+
 <div>
-        <h2><img align="center" width="35"
+        <h2><img width="35"
                 src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
             Repositories</h2>
-    </div>
-    <br />
 </div>
