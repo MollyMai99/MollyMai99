@@ -17,7 +17,7 @@
      <div>
         <a href="https://www.linkedin.com/in/miaoling-mai/" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    </div>
+</div>
    
 <div>
      <hr/>
@@ -32,8 +32,6 @@ My experience at Fortune 500 companies has given me strong business sense, great
 Outside of work, I enjoy exploring new foods, practicing yoga, and trying out new activities. 
 <br />
 I’m excited to bring my skills and creative thinking to a team that values innovation and collaboration. Let’s connect and see how we can work together!</p>
-</div>
-</div>
 <div>
     <div>
         <h2>🧰 Languages and Tools</h2>
