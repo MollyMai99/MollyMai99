@@ -23,13 +23,7 @@
 <div>
         <h2><img src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             About Me</h2>
-    <p>I’m a passionate software engineer who loves working on full-stack development with JavaScript, React, Node, PostgreSQL, and MongoDB. I always aim to write efficient, high-quality code and use the best tools to get the job done.
-<br />
-My experience at Fortune 500 companies has given me strong business sense, great communication skills, clear logic, and a knack for getting things done. I’m good at quickly spotting and solving problems, and I always try to think outside the box.
-<br />
-Outside of work, I enjoy exploring new foods, practicing yoga, and trying out new activities. 
-<br />
-I’m excited to bring my skills and creative thinking to a team that values innovation and collaboration. Let’s connect and see how we can work together!</p>
+    <p>I am a software engineer specializing in full-stack development with JavaScript, React, Node, PostgreSQL, and MongoDB. I excel at using tools efficiently 🛠️ and prioritize delivering effective, high-quality code ⚡. In both work and life, I am adept at quickly identifying and solving problems 🧩 while always thinking outside the box 💡.</p>
 </div>
 
 <div>
